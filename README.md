@@ -142,7 +142,7 @@ A full time content creator on & web developer
 
 ---
 
-### Thanks for reading this ESLint documentation.
+### Thanks for reading this documentation. keep following me.
 
 ---
 
