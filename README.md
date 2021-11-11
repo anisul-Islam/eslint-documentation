@@ -128,7 +128,7 @@ A full time content creator on & web developer
 
 6. make some changes in setting.json
 
-   format on save and fix errors: add the following codes in settings.json
+   format on save and validate js codes: add the following codes in settings.json
 
    ```
     "editor.codeActionsOnSave": {
