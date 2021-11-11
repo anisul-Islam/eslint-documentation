@@ -1,4 +1,4 @@
-<h2> 👋 Hello, I'm Anisul Islam </h2>
+<h4> 👋 Hello, I'm Anisul Islam </h4>
 
 A full time content creator on & web developer
 
@@ -8,6 +8,7 @@ A full time content creator on & web developer
 [<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.svg" />][youtube]
 [<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.svg" />][facebook]
 [<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />][linkedin]
+<br />
 <br />
 <br />
 
