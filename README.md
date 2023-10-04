@@ -35,7 +35,7 @@ A full time content creator on & web developer
 ### 4. Installing & using ESLint
 
 1. Create package.json: `npm init`
-2. Install eslint as dev dependency: `npm install eslint --save-dev `
+2. Install and configure eslint as dev dependency: `npm init @eslint/config`
 3. Initialize eslint: `eslint --init` and follow steps:
 
    - How would you like to use ESLint? To check syntax and find problems
